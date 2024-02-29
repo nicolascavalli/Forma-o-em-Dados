@@ -1,4 +1,4 @@
-# Formacao em Dados
+# Formação em Dados
 Aqui estão os cases e desafios que vou completando na minha especialização em dados pela escola DNC.
 Assuntos abordados:
 Modelos de machine learning como, regressão, clusteriazação, árvores de decisão entre outros são alguns dos modelos utilizados nesse repositório.
