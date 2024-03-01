@@ -11,7 +11,14 @@ Neste desafio, tivemos que construir um painel gerencial para um e-commerce que 
 resultados. Recebemos duas bases de dados, uma com dados das vendas e outra com informações dos clientes. Com isso, foram criadas duas páginas para que os analistas possam
 visualizar as seguintes métricas: quantidade total e valor total de vendas, contagem e valor total de vendas por data, quantidade e valor total por categoria e crie os filtros necessários para fornecer ao usuário a melhor experiência.
 
-Conceitos utilizados: DAX, Segmentação de Dados, Gráficos de Colunas, Cartões.
+Conceitos utilizados: ETL, DAX, Segmentação de Dados, Gráficos de Colunas, Cartões.
+
+## Dashboard com principais indicadores de desempenho de uma empresa de Marketing utilizando o Power BI
+Nesse desafio, uma empresa de Marketing Digital precisava atingir uma meta ambiciosa e identificar os melhores planos de ação para alcançá-la. Para
+isso, ela decidiu criar um dashboard no Power BI que permita acompanhar os principais indicadores de desempenho. Com esses dados, a equipe pode avaliar o
+desempenho de cada campanha, identificando oportunidades de otimização e escolher os melhores planos de ação para alcançar a meta do quarter.
+
+Conceitos utilizados: ETL, DAX, Filtros, Gráficos de Barras, Colunas, Linhas, Cartões, Mapas
 
 ## Modelo de Regressão Linear para empresa de Marketing
 Nesse desafio tivemos que construir um modelo de regressão linear com base nos em uma base de dados de uma empresa de publicidade que buscava entender os melhores meios de venda de seus produtos através do investimento em determinados canais de comunicação como Facebook, Youtube, para a prospecção de leads para a empresa. A ideia era prever o retorno de vendas que pode ser gerado a partir de um determinado investimento em publicidade.
