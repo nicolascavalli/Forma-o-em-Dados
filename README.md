@@ -6,6 +6,13 @@ Aqui estão os cases e desafios que vou completando na minha especialização em
     - Data Cleaning e Data Wrangling (tratamento de nulos, outliers, feature engeneering, pipelines)
     - Modelos de machine learning como, regressão, clusteriazação, árvores de decisão entre outros são alguns dos modelos utilizados nesse repositório.
 
+## Previsão do resultado de um e-commerce utilizando o Power BI
+Neste desafio, tivemos que construir um painel gerencial para um e-commerce que almeja estudar as suas vendas e assim, traçar a melhor estratégia para alavancar seus
+resultados. Recebemos duas bases de dados, uma com dados das vendas e outra com informações dos clientes. Com isso, foram criadas duas páginas para que os analistas possam
+visualizar as seguintes métricas: quantidade total e valor total de vendas, contagem e valor total de vendas por data, quantidade e valor total por categoria e crie os filtros necessários para fornecer ao usuário a melhor experiência.
+
+Conceitos utilizados: DAX, Segmentação de Dados, Gráficos de Colunas, Cartões.
+
 ## Modelo de Regressão Linear para empresa de Marketing
 Nesse desafio tivemos que construir um modelo de regressão linear com base nos em uma base de dados de uma empresa de publicidade que buscava entender os melhores meios de venda de seus produtos através do investimento em determinados canais de comunicação como Facebook, Youtube, para a prospecção de leads para a empresa. A ideia era prever o retorno de vendas que pode ser gerado a partir de um determinado investimento em publicidade.
 
