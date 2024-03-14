@@ -26,6 +26,16 @@ Nesse desafio tivemos que construir um modelo de regressão linear com base nos 
 ## Preparação de base de dados para uma empresa de e-commerce
 Nesse desafio foram utilizados conceitos de Data Cleaning e Data Wrangling para realizar a estruturação e limpeza do dataset. O case consistia na utilização dos conceitos aprendidos em aula para realizar um levantamento dos indicadores de RFM em uma empresa de e-commmerce. A empresa forneceu sua base de dados com mais de 500.000 linhas sobre vendas realizadas em diversos países, e assim realizando o tratamento dos valores faltantes, outliers e soluções de agrupamento e agregação, foi possível chegar no cálculo do RFM para a companhia.
 
+## Painel Gerencial de um E-commerce
+Nesse case, desenvolvi um dashboard em Power BI para uma empresa de E-commerce que tinha como objetivo ser uma ferramenta centralizada que permitirá aos gestores visualizar e analisar informações chave sobre o desempenho do e-commerce. Por meio de gráficos, tabelas e filtros interativos, os gestores poderão monitorar as vendas, identificar tendências, tomar decisões estratégicas e acompanhar o crescimento do negócio.
+Conceitos utilizados:
+    - Figma (Design)
+    - DAX(DIVIDE, SUMX, Colunas Calculadas)
+    - Cartões
+    - Gráficos de Barras com Nsuperiores
+    - Gráfico de Linhas com análise preditiva para os próximos 3 meses
+    - Gráfico de colunas e linhas.
+
 ## Predição do preço de seguro de vida
 Nesse case foi dada uma base de dados com clientes de uma empresa de seguro com informações como o sexo, idade, se a pessoa é fumante ou não, a região onde a pessoa mora e o imc dela. O objetivo do case era prever o valor do seguro de vida para um potencial novo cliente. Foram utilizados conceitos de limpeza e estruturação dos dados, análise estatística descritiva e inferencial, as bibliotecas pandas, numpy, seaborn e skleran e também conceitos de otimização dos hiperparâmtros do modelo com maior R2 Score, que para o nosso case foi o RandomForestRegressor. Utilizamos o modelo GridSearch para buscar os melhores hiperparâmetros para o modelo vencedor. 
 
