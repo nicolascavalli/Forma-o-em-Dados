@@ -36,6 +36,14 @@ Conceitos utilizados:
     - Gráfico de Linhas com análise preditiva para os próximos 3 meses
     - Gráfico de colunas e linhas.
 
+## Predição de Churn
+Nesse case, foi fornecido uma base de dados com mais de 7000 clientes com dados demográficos, de contrato e pagamento de uma empresa de Telefonia. O objetivo do negócio era prever para um cliente novo, se ele seria um churn ou não. Por meio do framework CRISP-DM, foi possível construir um modelo para a predição desejada pela empresa.
+Conceitos Utilizados:
+    - Data Cleaning (dropna, dropduplicates, removing outliers)
+    - Data Wrangling (LabelEncoder, StandardScaler)
+    - Pandas, Numpy, Matplotlib, Seaborn
+    - LogisticRegression, RandomForest, DecisionTreeClassifier, SVM
+
 ## Predição do preço de seguro de vida
 Nesse case foi dada uma base de dados com clientes de uma empresa de seguro com informações como o sexo, idade, se a pessoa é fumante ou não, a região onde a pessoa mora e o imc dela. O objetivo do case era prever o valor do seguro de vida para um potencial novo cliente. Foram utilizados conceitos de limpeza e estruturação dos dados, análise estatística descritiva e inferencial, as bibliotecas pandas, numpy, seaborn e skleran e também conceitos de otimização dos hiperparâmtros do modelo com maior R2 Score, que para o nosso case foi o RandomForestRegressor. Utilizamos o modelo GridSearch para buscar os melhores hiperparâmetros para o modelo vencedor. 
 
