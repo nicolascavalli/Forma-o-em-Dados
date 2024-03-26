@@ -44,6 +44,15 @@ Conceitos Utilizados:
     - Pandas, Numpy, Matplotlib, Seaborn
     - LogisticRegression, RandomForest, DecisionTreeClassifier, SVM
 
+## Predição de Churn em Plataforma de Streaming
+Nesse desafio foi fornecida uma base de dados real de clientes de uma plataforma de streaming com mais de 30000 linhas. A diretoria está preocupada com o alto índice de usuários cancelando as suas assinaturas. Eles acreditam que é possível prever se um usuário tem mais chance de deixar a plataforma antes que isso aconteça, e com base nessa informação tomar ações para reduzir o churn. O objetivo é criar um modelo de classificação capaz de prever se um usuário tem mais chance de cancelar a sua assinatura na plataforma ou não. Para isso, a empresa forneceu uma base de dados em csv contendo dados sobre as contas dos clientes.
+Conceitos e bibliotecas utilizadas:
+    - EDA 
+    - Data Cleaning (dropna, dropduplicates, fillna)
+    - Data Wrangling (LabelEncoder, MinMaxScaler)
+    - Pandas, Numpy, Matplotlib, Seaborn
+    - LogisticRegression, RandomForest, GridSearchCV
+
 ## Predição do preço de seguro de vida
 Nesse case foi dada uma base de dados com clientes de uma empresa de seguro com informações como o sexo, idade, se a pessoa é fumante ou não, a região onde a pessoa mora e o imc dela. O objetivo do case era prever o valor do seguro de vida para um potencial novo cliente. Foram utilizados conceitos de limpeza e estruturação dos dados, análise estatística descritiva e inferencial, as bibliotecas pandas, numpy, seaborn e skleran e também conceitos de otimização dos hiperparâmtros do modelo com maior R2 Score, que para o nosso case foi o RandomForestRegressor. Utilizamos o modelo GridSearch para buscar os melhores hiperparâmetros para o modelo vencedor. 
 
