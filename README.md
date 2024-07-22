@@ -54,5 +54,9 @@ Conceitos e bibliotecas utilizadas:
     - LogisticRegression, RandomForest, GridSearchCV
 
 ## Predição do preço de seguro de vida
-Nesse case foi dada uma base de dados com clientes de uma empresa de seguro com informações como o sexo, idade, se a pessoa é fumante ou não, a região onde a pessoa mora e o imc dela. O objetivo do case era prever o valor do seguro de vida para um potencial novo cliente. Foram utilizados conceitos de limpeza e estruturação dos dados, análise estatística descritiva e inferencial, as bibliotecas pandas, numpy, seaborn e skleran e também conceitos de otimização dos hiperparâmtros do modelo com maior R2 Score, que para o nosso case foi o RandomForestRegressor. Utilizamos o modelo GridSearch para buscar os melhores hiperparâmetros para o modelo vencedor. 
+Nesse case foi dada uma base de dados com clientes de uma empresa de seguro com informações como o sexo, idade, se a pessoa é fumante ou não, a região onde a pessoa mora e o imc dela. O objetivo do case era prever o valor do seguro de vida para um potencial novo cliente. Foram utilizados conceitos de limpeza e estruturação dos dados, análise estatística descritiva e inferencial, as bibliotecas pandas, numpy, seaborn e skleran e também conceitos de otimização dos hiperparâmtros do modelo com maior R2 Score, que para o nosso case foi o RandomForestRegressor. Utilizamos o modelo GridSearch para buscar os melhores hiperparâmetros para o modelo vencedor.
+
+
+## Agrupamento de perfis de clientes de um e-commerce
+Nesse desafio foi fornecida uma base de dados de um e-commerce, no qual a empresa estava buscando entender melhor o comportamento de seus clientes para personalizar as suas campanhas de marketing.  Para isso, a empresa disponibilizou uma base de dados em csv contendo dados sobre clientes, produtos e transações da loja realizadas entre os anos de 2010 e 2011. Foram utilizados conceitos de data cleaning, data wrangling, estatística descritiva e as bibliotecas pandas, numpy, seaborn, sklearn e yellowbrick. O modelo escolhido para a clusterização foi o KMeans e assim encontramos 4 perfis bem distintos de clientes.
 
